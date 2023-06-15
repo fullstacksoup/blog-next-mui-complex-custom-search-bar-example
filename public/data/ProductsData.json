@@ -1,0 +1,1620 @@
+[
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086649209106",
+            "title": "Stylish Summer Necklace",
+            "handle": "stylish-summer-neclace",
+            "description": "Double chained gold boho necklace with turquoise pendant.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/stylish-summer-necklace_925x_f470a2ba-22c6-4013-994f-89d79c9811a7.jpg?v=1673190990",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042627346",
+                            "title": "Default Title",
+                            "price": "44.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320225870098",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/stylish-summer-necklace_925x_f470a2ba-22c6-4013-994f-89d79c9811a7.jpg?v=1673190990"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086649143570",
+            "title": "Silver Threader Necklace",
+            "handle": "silver-threader-necklace",
+            "description": "Sterling silver chain thread through circle necklace.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/silver-threader-necklace_925x_af7b20eb-09de-4a37-834a-c2029b94ed0d.jpg?v=1673190987",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/threader-necklace-closeup_925x_5d4a8c85-1cae-46ad-9e9d-a7a3d31abdcf.jpg?v=1673190987",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042463506",
+                            "title": "Default Title",
+                            "price": "14.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320225378578",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/silver-threader-necklace_925x_af7b20eb-09de-4a37-834a-c2029b94ed0d.jpg?v=1673190987"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086649110802",
+            "title": "Pretty Gold Necklace",
+            "handle": "pretty-gold-necklace",
+            "description": "14k gold and turquoise necklace. Stunning beaded turquoise on gold and pendant filled double chain design.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/pretty-gold-necklace_925x_212f80b9-0ae6-4fcd-b89e-c0112ada1611.jpg?v=1673190984",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/necklace-earrings-set_925x_2a717ea9-6496-4051-87d2-881958e2b824.jpg?v=1673190984",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/inspired-woman_925x_60532264-b517-477f-a150-57aceb6f17b2.jpg?v=1673190984",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042430738",
+                            "title": "Default Title",
+                            "price": "44.95",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320225280274",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/pretty-gold-necklace_925x_212f80b9-0ae6-4fcd-b89e-c0112ada1611.jpg?v=1673190984"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086649078034",
+            "title": "Origami Crane Necklace",
+            "handle": "origami-crane-necklace",
+            "description": "Sterling silver origami crane necklace.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/origami-crane-necklace-gold_925x_3deaf746-ff72-41a6-a790-cc7685688627.jpg?v=1673190979",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/silver-origami-necklace_925x_75ca49a1-92b9-4147-b403-2837ca8601ad.jpg?v=1673190979",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/origami-crane-necklace_925x_0024f262-2c46-4cc5-847f-a9a7c232a150.jpg?v=1673190979",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-green-turtleneck_925x_4de8dfd5-dfae-4c63-a576-9ef07007d97e.jpg?v=1673190979",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042397970",
+                            "title": "Default Title",
+                            "price": "75.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320224821522",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/origami-crane-necklace-gold_925x_3deaf746-ff72-41a6-a790-cc7685688627.jpg?v=1673190979"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086649012498",
+            "title": "Moon Charm Bracelet",
+            "handle": "moon-charm-bracelet",
+            "description": "Moon 14k gold chain friendship bracelet.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-hand-moon-bracelet-_925x_e55264cc-1ed1-4889-a92d-eedbd98fb061.jpg?v=1673190975",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/moon-friendship-bracelet_925x_a7df90b3-e9a4-4dc9-9f29-fa010edcc08d.jpg?v=1673190975",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-hand-charm-bracelet_925x_0b411217-6837-40f9-8125-f91912781ffa.jpg?v=1673190975",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042234130",
+                            "title": "Default Title",
+                            "price": "47.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320224002322",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-hand-moon-bracelet-_925x_e55264cc-1ed1-4889-a92d-eedbd98fb061.jpg?v=1673190975"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648946962",
+            "title": "Guardian Angel Earrings",
+            "handle": "guardian-angel-earrings",
+            "description": "Sterling silver guardian angel earrings with diamond gemstones.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/guardian-angel-earrings_925x_321d444a-53ca-46ba-a67e-e5a5a7889871.jpg?v=1673190972",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/guardian-angel-earring-closeup_925x_f61f4eb8-d1e4-4741-bd11-a82ad9edecb0.jpg?v=1673190972",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042201362",
+                            "title": "Default Title",
+                            "price": "19.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223805714",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/guardian-angel-earrings_925x_321d444a-53ca-46ba-a67e-e5a5a7889871.jpg?v=1673190972"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648881426",
+            "title": "Gold Elephant Earrings",
+            "handle": "looped-earrings",
+            "description": "Small 14k gold elephant earrings, with opal ear detail.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/elephant-earrings_925x_f59d5f75-0980-4d44-ac37-3546e2a4770e.jpg?v=1673190969",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042168594",
+                            "title": "Default Title",
+                            "price": "54.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223674642",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/elephant-earrings_925x_f59d5f75-0980-4d44-ac37-3546e2a4770e.jpg?v=1673190969"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648848658",
+            "title": "Gold Bird Necklace",
+            "handle": "gold-bird-necklace",
+            "description": "14k Gold delicate necklace, with bird between two chains.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/gold-bird-necklace_925x_9a115cbd-d20b-4860-8903-8968a1862198.jpg?v=1673190967",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042135826",
+                            "title": "Default Title",
+                            "price": "79.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223412498",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/gold-bird-necklace_925x_9a115cbd-d20b-4860-8903-8968a1862198.jpg?v=1673190967"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648815890",
+            "title": "Gemstone Necklace",
+            "handle": "gemstone",
+            "description": "Gemstone pendant, housed in sterling silver, with sterling silver chain. Sterling silver chain, 14 inches Turquoise or Quartz Boho Chic Made in USA",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/blue-gemstone-pendant_925x_e6a06676-57b9-4c25-b5a1-9999c9a8e58a.jpg?v=1673190966",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/gemstone-necklace_925x_48576ea0-f1c0-48ad-b9dd-645f23dad4d2.jpg?v=1673190966",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-necklace_925x_4210c461-73f6-410e-9574-72d1adeb9cee.jpg?v=1673190966",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/purple-gemstone-necklace_925x_729549d6-9ea6-41e7-aeac-11846fee55f6.jpg?v=1673190966",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042070290",
+                            "title": "Blue",
+                            "price": "27.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223183122",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/blue-gemstone-pendant_925x_e6a06676-57b9-4c25-b5a1-9999c9a8e58a.jpg?v=1673190966"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042103058",
+                            "title": "Purple",
+                            "price": "27.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223281426",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/purple-gemstone-necklace_925x_729549d6-9ea6-41e7-aeac-11846fee55f6.jpg?v=1673190966"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648783122",
+            "title": "Galaxy Earrings",
+            "handle": "galaxy-earrings",
+            "description": "One set of galaxy earrings, with sterling silver clasps.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/galaxy-earrings_925x_d150e66a-7ba9-4071-8128-91b5ff24d6d6.jpg?v=1673190962",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328042037522",
+                            "title": "Default Title",
+                            "price": "37.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320223150354",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/galaxy-earrings_925x_d150e66a-7ba9-4071-8128-91b5ff24d6d6.jpg?v=1673190962"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648717586",
+            "title": "Dreamcatcher Pendant Necklace",
+            "handle": "dreamcatcher-pendant-necklace",
+            "description": "Turquoise beaded dream catcher necklace. Silver feathers adorn this beautiful dream catcher, which move and twinkle as you walk.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/dreamcatcher-pendant-necklace_925x_fc589eef-1e9b-47a0-bf25-e1d51d071a68.jpg?v=1673190960",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/gold-dream-catcher-necklace_925x_ceff17bc-bf2a-4464-b3b6-45d991f4b2ac.jpg?v=1673190960",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041677074",
+                            "title": "Default Title",
+                            "price": "23.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320222429458",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/dreamcatcher-pendant-necklace_925x_fc589eef-1e9b-47a0-bf25-e1d51d071a68.jpg?v=1673190960"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648684818",
+            "title": "Dainty Gold Necklace",
+            "handle": "dainty-gold-neclace",
+            "description": "Dainty gold necklace with two pendants.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/dainty-gold-necklace_925x_58f23994-04ed-4c17-b58d-ae2933441548.jpg?v=1673190958",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-gold-necklace_925x_ef451064-bfa1-4ba9-a7f2-b49c87357214.jpg?v=1673190958",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041644306",
+                            "title": "Default Title",
+                            "price": "63.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320222265618",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/dainty-gold-necklace_925x_58f23994-04ed-4c17-b58d-ae2933441548.jpg?v=1673190958"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648652050",
+            "title": "Choker with Triangle",
+            "handle": "choker-with-triangle",
+            "description": "Black choker with silver triangle pendant.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-with-triangle_925x_108475dc-dfc6-4551-bf45-86cd16b2ead7.jpg?v=1673190956",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041611538",
+                            "title": "Default Title",
+                            "price": "47.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320222200082",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-with-triangle_925x_108475dc-dfc6-4551-bf45-86cd16b2ead7.jpg?v=1673190956"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648619282",
+            "title": "Choker with Gold Pendant",
+            "handle": "choker-with-gold-pendant",
+            "description": "Black cord choker with gold pendant. Beautifully died black leather shapes a choker necklace with findings of 14k yellow gold, displaying gold pendant in a gorgeous balance of dark and light, delicate and strong. 14k yellow gold Leather Length, 12\" with 2.5\" extender Width, 0.3\" Lobster clasp Made in USA",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-with-gold-pendant_925x_e34a47d7-8cf5-4e6a-9628-0660ab4e5ed8.jpg?v=1673190954",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-pendant-closeup_925x_eb06e143-9b5c-44ce-9373-9e84eb5dda72.jpg?v=1673190954",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041578770",
+                            "title": "Default Title",
+                            "price": "29.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320222003474",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-with-gold-pendant_925x_e34a47d7-8cf5-4e6a-9628-0660ab4e5ed8.jpg?v=1673190954"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648586514",
+            "title": "Choker with Bead",
+            "handle": "choker-with-bead",
+            "description": "Black choker necklace with 14k gold bead.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/black-choker-with-bead_925x_803e64a8-38ef-4c36-8ec3-4540a102fcd3.jpg?v=1673190952",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/choker-with-bead_925x_02fe2f09-88d3-4659-94c2-e09916aeb10b.jpg?v=1673190952",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041546002",
+                            "title": "Default Title",
+                            "price": "14.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221937938",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/black-choker-with-bead_925x_803e64a8-38ef-4c36-8ec3-4540a102fcd3.jpg?v=1673190952"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648553746",
+            "title": "Boho Earrings",
+            "handle": "boho-earrings",
+            "description": "Turquoise globe earrings on 14k gold hooks.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/boho-earrings_925x_81ed6116-dc25-4b7a-a90f-4d2ad7d37337.jpg?v=1673190949",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/inspired-woman_925x_54035dba-98b2-44eb-89b6-b42dfda271a1.jpg?v=1673190949",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/necklace-earrings-set_925x_7ee50a4a-3c59-4aa0-8542-e9c1eac22f0e.jpg?v=1673190949",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041480466",
+                            "title": "Default Title",
+                            "price": "27.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221806866",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/boho-earrings_925x_81ed6116-dc25-4b7a-a90f-4d2ad7d37337.jpg?v=1673190949"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648520978",
+            "title": "Boho Bangle Bracelet",
+            "handle": "bangle-bracelet-with-feathers",
+            "description": "Want the perfect gift for your daughter or niece? Gold boho bangle bracelet with multicolor tassels.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/bangle-bracelet-with-feathers_925x_929af1c7-ac6a-4052-8608-2605d3baa13d.jpg?v=1673190946",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041447698",
+                            "title": "Default Title",
+                            "price": "42.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221708562",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/bangle-bracelet-with-feathers_925x_929af1c7-ac6a-4052-8608-2605d3baa13d.jpg?v=1673190946"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648488210",
+            "title": "Bangle Bracelet",
+            "handle": "bangle-bracelet",
+            "description": "Gold bangle bracelet with studded jewels.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/bangle-bracelet-with-jewels_925x_7e171dbc-944b-4805-8371-41156d620242.jpg?v=1673190944",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041414930",
+                            "title": "Default Title",
+                            "price": "39.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221544722",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/bangle-bracelet-with-jewels_925x_7e171dbc-944b-4805-8371-41156d620242.jpg?v=1673190944"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648455442",
+            "title": "Anchor Bracelet Mens",
+            "handle": "leather-anchor",
+            "description": "Black leather bracelet with gold or silver anchor for men.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/anchor-bracelet-mens_925x_0ab0cf6f-d049-4e3d-907f-5ba458860ef2.jpg?v=1673190942",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/anchor-bracelet-for-men_925x_2c979d47-ae0e-43f6-bd32-8b4de2f7b92c.jpg?v=1673190942",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/leather-anchor-bracelet-for-men_925x_c8049ad1-cdbc-487b-9632-75d4ba1474e5.jpg?v=1673190942",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041349394",
+                            "title": "Gold",
+                            "price": "69.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221315346",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/anchor-bracelet-mens_925x_0ab0cf6f-d049-4e3d-907f-5ba458860ef2.jpg?v=1673190942"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041382162",
+                            "title": "Silver",
+                            "price": "55.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221348114",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/anchor-bracelet-for-men_925x_2c979d47-ae0e-43f6-bd32-8b4de2f7b92c.jpg?v=1673190942"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086648422674",
+            "title": "7 Shakra Bracelet",
+            "handle": "chain-bracelet",
+            "description": "7 chakra bracelet, in blue or black.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/7-chakra-bracelet_925x_cb2fd5e3-31ef-4e33-a92c-739f656dfa48.jpg?v=1673190939",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/navy-blue-chakra-bracelet_925x_b7f490c4-081a-4b39-856a-e7e053266236.jpg?v=1673190939",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041283858",
+                            "title": "Blue",
+                            "price": "42.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221184274",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/navy-blue-chakra-bracelet_925x_b7f490c4-081a-4b39-856a-e7e053266236.jpg?v=1673190939"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328041316626",
+                            "title": "Black",
+                            "price": "42.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320221151506",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/7-chakra-bracelet_925x_cb2fd5e3-31ef-4e33-a92c-739f656dfa48.jpg?v=1673190939"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646587666",
+            "title": "LED High Tops",
+            "handle": "led-high-tops",
+            "description": "Black high top shoes with green LED lights in the sole, tied up with laces and a buckle.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/putting-on-your-shoes_925x_d2f16e2f-c31a-4b82-8b49-49da50c9552d.jpg?v=1673190548",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328009531666",
+                            "title": "Default Title",
+                            "price": "80.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182944018",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/putting-on-your-shoes_925x_d2f16e2f-c31a-4b82-8b49-49da50c9552d.jpg?v=1673190548"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646554898",
+            "title": "Striped Skirt and Top",
+            "handle": "striped-skirt-and-top",
+            "description": "Black cotton top with matching striped skirt.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/woman-in-the-city_925x_213e5ca0-253a-43db-9c16-87c558b0f578.jpg?v=1673190547",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328009498898",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182911250",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/woman-in-the-city_925x_213e5ca0-253a-43db-9c16-87c558b0f578.jpg?v=1673190547"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646522130",
+            "title": "Red Sports Tee",
+            "handle": "red-sports-tee",
+            "description": "Women's red sporty t-shirt with colorful details on the sleeves and a small white pocket.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-red-t-shirt_925x_78d17232-5bf6-44e6-b0cc-af8a6011d246.jpg?v=1673190546",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328009466130",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182878482",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/womens-red-t-shirt_925x_78d17232-5bf6-44e6-b0cc-af8a6011d246.jpg?v=1673190546"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646489362",
+            "title": "Blue Silk Tuxedo",
+            "handle": "blue-silk-tuxedo",
+            "description": "Blue silk tuxedo with marbled aquatic pattern and dark lining. Sleeves are complete with rounded hem and black buttons.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/man-adjusts-blue-tuxedo-bowtie_925x_f90deb12-1dd6-465a-aab4-eb6e33cadc4b.jpg?v=1673190544",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328009236754",
+                            "title": "Default Title",
+                            "price": "70.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182714642",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/man-adjusts-blue-tuxedo-bowtie_925x_f90deb12-1dd6-465a-aab4-eb6e33cadc4b.jpg?v=1673190544"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646456594",
+            "title": "Olive Green Jacket",
+            "handle": "olive-green-jacket",
+            "description": "Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/urban-fashion_925x_208c33d9-dfca-47d6-83c3-695dee4b2fb0.jpg?v=1673190543",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008909074",
+                            "title": "Default Title",
+                            "price": "65.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182649106",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/urban-fashion_925x_208c33d9-dfca-47d6-83c3-695dee4b2fb0.jpg?v=1673190543"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646391058",
+            "title": "White Cotton Shirt",
+            "handle": "white-cotton-shirt",
+            "description": "Plain white cotton long sleeved shirt with loose collar. Small buttons and front pocket.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/smiling-woman-poses_925x_381907f0-2e2d-4908-9a8d-142905f048ab.jpg?v=1673190539",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008810770",
+                            "title": "Default Title",
+                            "price": "30.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320182124818",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/smiling-woman-poses_925x_381907f0-2e2d-4908-9a8d-142905f048ab.jpg?v=1673190539"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646358290",
+            "title": "Chequered Red Shirt",
+            "handle": "chequered-red-shirt",
+            "description": "Classic mens plaid flannel shirt with long sleeves, in chequered style, with two chest pockets.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/red-plaid-shirt_925x_c523c425-b60a-4050-9aa9-18a4e0df451c.jpg?v=1673190536",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008745234",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320181829906",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/red-plaid-shirt_925x_c523c425-b60a-4050-9aa9-18a4e0df451c.jpg?v=1673190536"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646325522",
+            "title": "Long Sleeve Cotton Top",
+            "handle": "longsleeve-cotton-top",
+            "description": "Black cotton womens top, with long sleeves, no collar and a thick hem.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/woman-outside-brownstone_925x_895aff34-0a90-407d-a437-d605cc5ea16c.jpg?v=1673190533",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008384786",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320181403922",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/woman-outside-brownstone_925x_895aff34-0a90-407d-a437-d605cc5ea16c.jpg?v=1673190533"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646292754",
+            "title": "Silk Summer Top",
+            "handle": "silk-summer-top",
+            "description": "Silk womens top with short sleeves and number pattern.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-hip-woman-at-carnival_925x_2d4a6375-a3a5-4eca-b58d-0a99a539fcb1.jpg?v=1673190532",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008352018",
+                            "title": "Default Title",
+                            "price": "70.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320181109010",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-hip-woman-at-carnival_925x_2d4a6375-a3a5-4eca-b58d-0a99a539fcb1.jpg?v=1673190532"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646227218",
+            "title": "Zipped Jacket",
+            "handle": "zipped-jacket",
+            "description": "Dark navy and light blue men's zipped waterproof jacket with an outer zipped chestpocket for easy storeage.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/menswear-blue-zip-up-jacket_925x_0f2ad72c-51f7-42c5-934b-70879bb3b786.jpg?v=1673190530",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008286482",
+                            "title": "Default Title",
+                            "price": "65.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320181043474",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/menswear-blue-zip-up-jacket_925x_0f2ad72c-51f7-42c5-934b-70879bb3b786.jpg?v=1673190530"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646194450",
+            "title": "Black Leather Bag",
+            "handle": "black-leather-bag",
+            "description": "Womens black leather bag, with ample space. Can be worn over the shoulder, or remove straps to carry in your hand.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/black-bag-over-the-shoulder_925x_ae8381c0-566f-43e3-912d-15ae247fdce2.jpg?v=1673190529",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008057106",
+                            "title": "Default Title",
+                            "price": "30.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320180486418",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/black-bag-over-the-shoulder_925x_ae8381c0-566f-43e3-912d-15ae247fdce2.jpg?v=1673190529"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646063378",
+            "title": "Soft Winter Jacket",
+            "handle": "dark-winter-jacket",
+            "description": "Thick black winter jacket, with soft fleece lining. Perfect for those cold weather days.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/smiling-woman-on-snowy-afternoon_925x_6c5bd0fe-fefa-4483-ac67-23aa50c1fa78.jpg?v=1673190527",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328008024338",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320180191506",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/smiling-woman-on-snowy-afternoon_925x_6c5bd0fe-fefa-4483-ac67-23aa50c1fa78.jpg?v=1673190527"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086646030610",
+            "title": "Navy Sports Jacket",
+            "handle": "navy-sport-jacket",
+            "description": "Long-sleeved navy waterproof jacket in thin, polyester fabric with a soft mesh inside. The durable water-repellent finish means you'll be kept comfortable and protected when out in all weathers.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/mens-fall-fashion-jacket_925x_74f98059-971b-422f-9e7d-8080a3fe8b77.jpg?v=1673190526",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328007958802",
+                            "title": "Default Title",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320179896594",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/mens-fall-fashion-jacket_925x_74f98059-971b-422f-9e7d-8080a3fe8b77.jpg?v=1673190526"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645997842",
+            "title": "Dark Denim Top",
+            "handle": "dark-denim-top",
+            "description": "Classic dark denim top with chest pockets, long sleeves with buttoned cuffs, and a ripped hem effect.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-female-models-denim_925x_23b5500d-eb4a-48f9-a922-712867a31b26.jpg?v=1673190524",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328007860498",
+                            "title": "Default Title",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320179536146",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-female-models-denim_925x_23b5500d-eb4a-48f9-a922-712867a31b26.jpg?v=1673190524"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645965074",
+            "title": "Classic Leather Jacket",
+            "handle": "classic-leather-jacket",
+            "description": "Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/leather-jacket-and-tea_925x_b8b0a587-177c-4096-a913-d5baa5d0f1b6.jpg?v=1673190523",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328007827730",
+                            "title": "Default Title",
+                            "price": "80.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320179503378",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/leather-jacket-and-tea_925x_b8b0a587-177c-4096-a913-d5baa5d0f1b6.jpg?v=1673190523"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645899538",
+            "title": "Striped Silk Blouse",
+            "handle": "striped-silk-blouse",
+            "description": "Ultra-stylish black and red striped silk blouse with buckle collar and matching button pants.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/striped-blouse-fashion_925x_a4c41476-f28b-4458-9f98-25ee6c52f96e.jpg?v=1673190521",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328007663890",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320179437842",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/striped-blouse-fashion_925x_a4c41476-f28b-4458-9f98-25ee6c52f96e.jpg?v=1673190521"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645866770",
+            "title": "Floral White Top",
+            "handle": "floral-white-top",
+            "description": "Stylish sleeveless white top with a floral pattern.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/city-woman-fashion_925x_2x_9d3dec75-44c9-44cf-932b-f7683361be44.jpg?v=1673190519",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328007106834",
+                            "title": "Default Title",
+                            "price": "75.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320179306770",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/city-woman-fashion_925x_2x_9d3dec75-44c9-44cf-932b-f7683361be44.jpg?v=1673190519"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645834002",
+            "title": "Yellow Wool Jumper",
+            "handle": "yellow-wool-jumper",
+            "description": "Knitted jumper in a soft wool blend with low dropped shoulders and wide sleeves and think cuffs. Perfect for keeping warm during Fall.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/autumn-photographer-taking-picture_925x_1ebd1fdb-f0de-4d97-956f-fc0714712c19.jpg?v=1673190518",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328006123794",
+                            "title": "Default Title",
+                            "price": "80.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320178749714",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/autumn-photographer-taking-picture_925x_1ebd1fdb-f0de-4d97-956f-fc0714712c19.jpg?v=1673190518"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645768466",
+            "title": "Classic Varsity Top",
+            "handle": "classic-varsity-top",
+            "description": "Womens casual varsity top, This grey and black buttoned top is a sport-inspired piece complete with an embroidered letter.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328006025490",
+                            "title": "Small / Black",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177963282",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417689944338",
+                            "title": "Small / Blue",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177963282",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417689977106",
+                            "title": "Small / Red",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177963282",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417690009874",
+                            "title": "Small / Green",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177963282",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417690042642",
+                            "title": "Small / Yellow",
+                            "price": "60.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177963282",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/casual-fashion-woman_925x_137d7253-c259-4cc7-bb6b-acfb8d4ea3a3.jpg?v=1673190516"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8086645702930",
+            "title": "Ocean Blue Shirt",
+            "handle": "ocean-blue-shirt",
+            "description": "Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns.",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-man-in-bright-fashion_925x_2ab265e7-8ad8-42ad-abcd-2383a1835751.jpg?v=1673190514",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44328005796114",
+                            "title": "Default Title",
+                            "price": "50.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40320177373458",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/young-man-in-bright-fashion_925x_2ab265e7-8ad8-42ad-abcd-2383a1835751.jpg?v=1673190514"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "node": {
+            "id": "gid://shopify/Product/8077715964178",
+            "title": "Example T-Shirt",
+            "handle": "example-t-shirt",
+            "description": "",
+            "images": {
+                "edges": [
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/green-t-shirt.jpg?v=1672682441",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/blackshirt.jpg?v=1674841963",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/redshirt.jpg?v=1674842167",
+                            "altText": null
+                        }
+                    },
+                    {
+                        "node": {
+                            "url": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/redshirt_da8a0477-e0d0-4846-ba7a-c28ac7d4888f.jpg?v=1674842199",
+                            "altText": null
+                        }
+                    }
+                ]
+            },
+            "variants": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44295799865618",
+                            "title": "Lithograph - Height: 9\" x Width: 12\" / Black",
+                            "price": "25.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40511357976850",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/blackshirt.jpg?v=1674841963"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417704591634",
+                            "title": "Lithograph - Height: 9\" x Width: 12\" / Blue",
+                            "price": "25.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40253186015506",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/green-t-shirt.jpg?v=1672682441"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417704624402",
+                            "title": "Lithograph - Height: 9\" x Width: 12\" / Red",
+                            "price": "25.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40511387205906",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/redshirt.jpg?v=1674842167"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44295799931154",
+                            "title": "Small / Black",
+                            "price": "19.99",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40253186015506",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/green-t-shirt.jpg?v=1672682441"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "gid://shopify/ProductVariant/44417704657170",
+                            "title": "Small / Green",
+                            "price": "25.00",
+                            "image": {
+                                "id": "gid://shopify/ProductImage/40253186015506",
+                                "src": "https://cdn.shopify.com/s/files/1/0697/7067/4450/products/green-t-shirt.jpg?v=1672682441"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
