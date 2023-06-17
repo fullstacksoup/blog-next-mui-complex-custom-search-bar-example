@@ -42,9 +42,8 @@ export default function Album() {
              Search Field Demo
             </Typography>
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
-              Something short and leading about the collection below—its contents,
-              the creator, etc. Make it short and sweet, but not too short so folks
-              don&apos;t simply skip over it entirely.
+            Using the React Material UI library,  
+            create an App Bar with a search field that show results as you type. The search bar is available at Material UI Website.
             </Typography>
             <Stack
               sx={{ pt: 4 }}
